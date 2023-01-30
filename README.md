@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[![Timur's GitHub Banner](./assets/GitHubHeader.png)]()
+[![Timur's GitHub Banner](./assets/Logo.png)]()
