@@ -14,7 +14,7 @@ I’m Timur, a Junior QC Engineer.
 ![](https://img.shields.io/badge/SQL-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Jmeter-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Postman-informational?style=flat&logo=gatsby&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Google DevTools-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/GoogleDevTools-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Html/Css-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
 
 ## 📌 Pinned Repositories
