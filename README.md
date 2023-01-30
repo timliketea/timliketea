@@ -9,7 +9,7 @@ I’m Timur, a Junior QC Engineer.
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Git-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/SQL-informational?style=flat&logo=SQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Jmeter-informational?style=flat&logo=Jmeter&logoColor=white&color=4AB197)
