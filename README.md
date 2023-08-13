@@ -5,7 +5,7 @@
 
 Hey there 👋
 
-I’m Timur, a Junior QC Engineer.
+I’m Timur, a ###.
 
 ## 💼 Skills
 
