@@ -16,6 +16,7 @@ I’m Timur, a ###.
 ![](https://img.shields.io/badge/GoogleDevTools-informational?style=flat&logo=Google&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Html/Css-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Jira/Remdine/GLPI-informational?style=flat&logo=Jira&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/-javascript-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
 
 ## 📌 Pinned Repositories
 
