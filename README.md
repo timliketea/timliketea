@@ -5,7 +5,7 @@
 
 Hey there 👋
 
-I’m Timur, a ###.
+I’m Timur, a .
 
 ## 💼 Skills
 
